@@ -45,8 +45,6 @@ public class Student {
 		this.dob = dob;
 	}
 
-	//Hola que tal?
-
 	public Long getId() {
 		return id;
 	}
